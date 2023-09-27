@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\H Bluelap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\H Bluelap\\.nuget\\packages"
+    ]
+  }
+}
